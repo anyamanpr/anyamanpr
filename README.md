@@ -1,5 +1,5 @@
 
-### Data Analysis Tech Stack
+### My Data Analysis Tech Stack
 
 
 <!-- Row 1: Excel and Power BI -->
