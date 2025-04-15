@@ -29,6 +29,8 @@
 </p>
 
 
+### This portfolio, opened on April 11th, contains all the projects that I've done from December 2024 onwards.
+
 <!---
 anyamanpr/anyamanpr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
